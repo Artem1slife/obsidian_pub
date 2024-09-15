@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "77733288c4030fbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "211f5931a9663132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7b5e4cfe02a0291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблон - Наименование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4409382a4b358988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c3a63f7698bd022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85d2ad5bddb9c399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "460fa6af4ff61df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74c4323582d4844b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "047caa7205185035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "228fe359121900b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b415f5787164335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5497c36e026544e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Объединённая коммунистическая партия (ОКП).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "e689943c4d4838f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "936b7c7f1ca520f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56837b503084d2d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5382ed2a691f6d86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d02e3cd3bfae88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44689410af4693a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe5fc2b6cda674c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcdbc5f445834d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de62b6e529e4810c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7bcce93b39fedb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Шаблон - Наименование.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89767eee6a2ca698",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Шаблон - Наименование.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "161d648c2fda352f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55b14f2f36c46013",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Шаблон - Наименование.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "936b7c7f1ca520f4",
+  "lastOpenFiles": [
+    "Объединённая коммунистическая партия (ОКП).md",
+    "Союз Коммунистической Молодежи (СКМ).md",
+    "СССР 2.0.md",
+    "Рабочий Компас.md",
+    "Трудовая Россия.md",
+    "Красная школа.md",
+    "ПОКОЛЕНИЕ НОВОГО ВРЕМЕНИ (ПНВ).md",
+    "Шаблон - Наименование.md",
+    "Объединение Боротьба.md",
+    "★☭ РКРП ☭★ Коммунисты  Марксисты Ленинцы.md"
+  ]
+}
